@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning the in's and out's of Github 
 - 👯 I’m looking to collaborate on interesting open-source projects and improving my portfolio.<!--- 🤔 I’m looking for help with - 💬 Ask me about ...-->
 - 📫 Reach me at sourav221b@gmail.com
-- Checkout my stats.
+- :dart: Checkout my stats.
 
   ![Sourav's github stats](https://github-readme-stats.vercel.app/api?username=SouravPal1995)
   
-- My language profile:
+- :books: My language profile:
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/SouravPal1995/github-readme-stats)
