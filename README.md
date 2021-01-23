@@ -7,3 +7,7 @@
 - Checkout my stats.
 
   ![Sourav's github stats](https://github-readme-stats.vercel.app/api?username=SouravPal1995)
+  
+- My language profile:
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/SouravPal1995/github-readme-stats)
