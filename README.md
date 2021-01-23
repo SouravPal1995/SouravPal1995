@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy
 
 - 🔭 I’m currently working on my first pull request for `pandas-dev/pandas`
 - 🌱 I’m currently learning the in's and out's of Github 
