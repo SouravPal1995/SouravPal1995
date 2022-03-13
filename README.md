@@ -1,5 +1,3 @@
-
-### :wave: Howdy!!!!
 - 📫 This is my portfolio
 - :dart: Checkout my stats.
 
